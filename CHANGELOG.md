@@ -1,3 +1,10 @@
+# 1.0.0 (2025-06-13)
+
+
+### Bug Fixes
+
+* enforce safe external links ([eede6e1](https://github.com/AlcinoAfonso/lp-modelo2/commit/eede6e123fe6d3df1a1263bd6bcbafde865e02a6))
+
 # [3.71.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.70.0...v3.71.0) (2025-06-12)
 
 
