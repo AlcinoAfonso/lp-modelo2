@@ -1,4 +1,3 @@
-/* eslint-disable react-dom/no-unsafe-target-blank */
 import Image from 'next/image';
 
 export const Sponsors = () => (
@@ -9,7 +8,7 @@ export const Sponsors = () => (
           <a
             href="https://clerk.com?utm_source=github&utm_medium=sponsorship&utm_campaign=nextjs-boilerplate"
             target="_blank"
-            rel="noopener"
+            rel="noopener noreferrer"
           >
             <Image
               src="/assets/images/clerk-logo-dark.png"
@@ -20,7 +19,7 @@ export const Sponsors = () => (
           </a>
         </td>
         <td className="border-2 border-gray-300 p-3">
-          <a href="https://www.coderabbit.ai?utm_source=next_js_starter&utm_medium=github&utm_campaign=next_js_starter_oss_2025" target="_blank" rel="noopener">
+          <a href="https://www.coderabbit.ai?utm_source=next_js_starter&utm_medium=github&utm_campaign=next_js_starter_oss_2025" target="_blank" rel="noopener noreferrer">
             <Image
               src="/assets/images/coderabbit-logo-light.svg"
               alt="CodeRabbit"
@@ -33,7 +32,7 @@ export const Sponsors = () => (
           <a
             href="https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo"
             target="_blank"
-            rel="noopener"
+            rel="noopener noreferrer"
           >
             <Image
               src="/assets/images/sentry-dark.png"
@@ -66,7 +65,7 @@ export const Sponsors = () => (
           </a>
         </td>
         <td className="border-2 border-gray-300 p-3">
-          <a href="https://l.crowdin.com/next-js" target="_blank" rel="noopener">
+          <a href="https://l.crowdin.com/next-js" target="_blank" rel="noopener noreferrer">
             <Image
               src="/assets/images/crowdin-dark.png"
               alt="Crowdin"
@@ -81,7 +80,7 @@ export const Sponsors = () => (
           <a
             href="https://posthog.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
             target="_blank"
-            rel="noopener"
+            rel="noopener noreferrer"
           >
             <Image
               src="https://posthog.com/brand/posthog-logo.svg"
@@ -95,7 +94,7 @@ export const Sponsors = () => (
           <a
             href="https://betterstack.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
             target="_blank"
-            rel="noopener"
+            rel="noopener noreferrer"
           >
             <Image
               src="/assets/images/better-stack-dark.png"
@@ -109,7 +108,7 @@ export const Sponsors = () => (
           <a
             href="https://www.checklyhq.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
             target="_blank"
-            rel="noopener"
+            rel="noopener noreferrer"
           >
             <Image
               src="/assets/images/checkly-logo-light.png"
