@@ -1,6 +1,6 @@
 # with-tailwindcss
 
-This is a minimal Next.js example using Tailwind CSS.
+This is a minimal Next.js example using Tailwind CSS and TypeScript.
 
 ## Getting Started
 
@@ -8,3 +8,4 @@ This is a minimal Next.js example using Tailwind CSS.
 npm install
 npm run dev
 ```
+
